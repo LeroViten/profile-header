@@ -25,5 +25,5 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/leroviten/" target="blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="my linkedIn profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leroviten/" target="blank" rel="noopener noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="my linkedIn profile" height="30" width="40" /></a>
 </p>
