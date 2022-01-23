@@ -23,8 +23,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leroviten&&theme=tokyonight&show_icons=true&locale=en" alt="my github stats" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroviten&theme=radical" alt="my github stats" /></p>
-![github contribution grid snake animation]
-(https://raw.githubusercontent.com/leroviten/leroviten/output/github-contribution-grid-snake.svg)
+<p align="center">&nbsp;<img align="center" src="https://raw.githubusercontent.com/leroviten/leroviten/output/github-contribution-grid-snake.svg" alt="my github stats in game" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
